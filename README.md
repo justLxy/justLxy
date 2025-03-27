@@ -26,6 +26,14 @@ I’m always open to meaningful conversations — about tech, creativity, or lif
 
 ![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,python,html,css,figma)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ---
 
 > “Code is poetry — and I write to inspire.”
