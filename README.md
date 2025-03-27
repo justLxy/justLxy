@@ -4,7 +4,7 @@
 
 I'm an INFJ-T passionate about technology and innovation. Currently pursuing a double major in Computer Science & Statistics with a minor in Economics at the University of Toronto.
 
-My interests include UX/HCI, Artificial Intelligence, and Machine Learning. I enjoy creating solutions that combine technical excellence with user-centered design.
+My interests include Game Design, UX/HCI, Artificial Intelligence, and Machine Learning. I enjoy creating solutions that combine technical excellence with user-centered design.
 
 Behind every line of code is an intention: to simplify, to connect, to empower. I care deeply about creating experiences that feel intuitive, human, and lasting.
 
