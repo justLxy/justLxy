@@ -24,11 +24,11 @@ I’m always open to meaningful conversations — about tech, creativity, or lif
 
 ## GitHub Statistics
 
-![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,java,c,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,java,c,html,css,linux,postman,figma)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justLxy&layout=compact)
+
+![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
 
 ---
 
