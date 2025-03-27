@@ -13,4 +13,4 @@ I am a seasoned Software Engineer with a passion for developing innovative solut
 
 ## GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast)
+![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
