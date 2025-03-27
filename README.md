@@ -14,7 +14,9 @@ Behind every line of code is an intention: to simplify, to connect, to empower. 
 - **Architect Backends** with Node.js, Express, PostgreSQL  
 - **Empower Frontends** with APIs, context-aware logic, and clean design  
 - **Explore Ideas** through passion projects and open source contributions  
-- **Continuously Learn** with curiosity and empathy as my compass  
+- **Continuously Learn** with curiosity and empathy as my compass
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,java,c,html,css,linux,postman,figma)](https://skillicons.dev)
 
 ## 📬 Let’s Connect
 
@@ -23,8 +25,6 @@ I’m always open to meaningful conversations — about tech, creativity, or lif
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational)](https://lvxy.cc)
 
 ## GitHub Statistics
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,java,c,html,css,linux,postman,figma)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justLxy&layout=compact)
 
