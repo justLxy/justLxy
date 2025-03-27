@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋 ![Visitor Badge](https://komarev.com/ghpvc/?username=justLxy&color=blue&style=flat)
 
 ## 🌿 About Me
 
@@ -26,7 +26,6 @@ I’m always open to meaningful conversations — about tech, creativity, or lif
 
 ![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=justLxy&color=blue&style=flat)
 ---
 
 > “Code is poetry — and I write to inspire.”
