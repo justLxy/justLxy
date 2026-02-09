@@ -23,13 +23,6 @@ Behind every line of code is an intention: to simplify, to connect, to empower. 
 I’m always open to meaningful conversations — about tech, creativity, or life in general. If you resonate with thoughtful, intentional creation, I’d love to hear from you.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational)](https://lvxy.cc)
-
-## GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justLxy&layout=compact)
-
-![justLxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=justLxy&show_icons=true&theme=highcontrast)
-
 ---
 
 > “Code is poetry — and I write to inspire.”
